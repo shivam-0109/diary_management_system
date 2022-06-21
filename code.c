@@ -1,3 +1,6 @@
+//group project 
+//by @shivam01091 and  @avan2702
+// project of pps semester 2 
 #include <stdio.h>
 
 #include <stdlib.h>
