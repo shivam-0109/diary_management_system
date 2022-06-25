@@ -16,14 +16,18 @@ Personal Diary Management System is a console program that allows you to create,
 
 The following are the fundamental user-defined functions utilized in this project:
 
-## **int password(**) – contains/manages/handles password protection
+### **int password(**) – contains/manages/handles password protection
 
-## **void addrecord()** – to add new diary record
+### **void addrecord()** – to add new diary record
 
-## **void viewrecord()** – to view added record in list
+### **void viewrecord()** – to view added record in list
 
-## **void editrecord()** – to modify and update an added record
+### **void editrecord()** – to modify and update an added record
 
-## **void editpassword()** – to modify/change a password
+### **void editpassword()** – to modify/change a password
 
-## **void deleterecord()** – to delete or remove a record permanently from system file
+### **void deleterecord()** – to delete or remove a record permanently from system file
+
+# Final Words
+
+This project exists to serve as a resource for you. As a result, submitting this Personal Diary Management System in C small project with little or no change is strongly discouraged. This project will teach you how to properly handle files, organize data, and utilize pointers and functions. So, try writing your own code and putting together a tiny project. If you do, please let us know.
